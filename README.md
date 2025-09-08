@@ -32,4 +32,4 @@ This dashboard empowers:
 - Developers exploring Power BI storytelling techniques
 
 📬 Connect
-Feel free to reach out or collaborate via [LinkedIn](www.linkedin.com/in/dinesh-s-376478316) or explore more dashboards on my GitHub profile.
+Feel free to reach out or collaborate via (www.linkedin.com/in/dinesh-s-376478316) or explore more dashboards on my GitHub profile.
